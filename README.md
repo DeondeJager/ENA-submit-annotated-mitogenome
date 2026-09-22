@@ -65,7 +65,7 @@ See the `embl` flatfile format manual [here](https://raw.githubusercontent.com/e
 
 2. Run it
 ```
-EMBLmyGFF3 --data_class WGS --organelle mitochondrion --locus_tag FOSSIL936 --locus_zero_padding --molecule_type "genomic DNA" --project_id PRJEB108657 --transl_table 2 --species "Connochaetes sp. DdJ-2026" --topology circular --author "Deon de Jager, J. Tyler Faith, Nicholas A. Freymueller, Alba Rey-Iglesia, Michael V. Westbury, Victoria M. Reuber, Jesper J. Meyer, Ivan Calandra, Damien A. Fordham, Matt Teeter, Paul Szpak, Joséphine Lesur, Lars Opgenoorth, Götz Ossendorf, and Eline D. Lorenzen" --output Fossil936.embl Fossil936_relax_manual.gff Fossil936.fasta
+EMBLmyGFF3 --data_class WGS --organelle mitochondrion --locus_tag FOSSIL936 --locus_zero_padding --molecule_type "genomic DNA" --project_id PRJEB108657 --transl_table 2 --species "Connochaetes sp. DdJ-2026" --topology circular --author "list all authors" --output Fossil936.embl Fossil936_relax_manual.gff Fossil936.fasta
 ```
 Check that the output file is what you expect.
 

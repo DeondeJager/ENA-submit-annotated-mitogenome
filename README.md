@@ -10,6 +10,14 @@ SciLifeLab has good tutorials on ENA submissions [here](https://data-guidelines.
 >
 >However, the ENA states that failed submissions are retried automatically and a ticket should only be logged if a week has passed without success.
 
+## Content
+1. [Register the locus_tag prefix](https://github.com/DeondeJager/ENA-submit-annotated-mitogenome#1-register-the-locus_tag-prefix)
+2. [Annotate assembled mitogenome](https://github.com/DeondeJager/ENA-submit-annotated-mitogenome#2-annotate-assembled-mitogenome)
+3. [Generate embl format of annotations](https://github.com/DeondeJager/ENA-submit-annotated-mitogenome#3-generate-embl-format-of-annotations)
+4. [Generate chromosome list file](https://github.com/DeondeJager/ENA-submit-annotated-mitogenome#4-generate-chromosome-list-file)
+5. [Make manifest file](https://github.com/DeondeJager/ENA-submit-annotated-mitogenome#5-make-manifest-file)
+6. [Validate and submit with Webin-CLI](https://github.com/DeondeJager/ENA-submit-annotated-mitogenome#6-validate-and-submit-with-webin-cli)
+
 ## 1. Register the locus_tag *prefix*
 [Link](https://ena-docs.readthedocs.io/en/latest/submit/assembly/genome.html#register-locus-tag-prefixes) to relevant ENA docs page.
 

@@ -1,0 +1,660 @@
+ID   XXX; XXX; circular; genomic DNA; WGS; XXX; 16409 BP.
+XX
+AC   XXX; 
+XX
+AC * _Fossil936
+XX
+PR   Project:PRJEB108657;
+XX
+DT   20-SEP-2026 (Rel. 133, Created)
+XX
+DE   XXX
+XX
+KW   .
+XX
+OS   Connochaetes sp. ddj-2026
+XX
+OC   cellular organisms; Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria;
+OC   Deuterostomia; Chordata; Craniata; Vertebrata; Gnathostomata; Teleostomi;
+OC   Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha; Tetrapoda; Amniota;
+OC   Mammalia; Theria; Eutheria; Boreoeutheria; Laurasiatheria; Artiodactyla;
+OC   Ruminantia; Pecora; Bovidae; Alcelaphinae; Connochaetes; unclassified
+OC   Connochaetes.
+XX
+OG   mitochondrion
+XX
+RN   [1]
+RP   1-16409
+RG   XXX
+RA   First Author, Second Author, etc.
+RT   ;
+RL   Submitted (20-SEP-2026) to the INSDC.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..16409
+FT                   /mol_type="genomic DNA"
+FT                   /organism="Connochaetes sp. ddj-2026"
+FT   tRNA            1..68
+FT                   /locus_tag="FOSSIL936_LOCUS01"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:1..68"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Phe"
+FT   exon            1..68
+FT                   /locus_tag="FOSSIL936_LOCUS01"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:1..68-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Phe"
+FT   rRNA            69..1023
+FT                   /locus_tag="FOSSIL936_LOCUS02"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:69..1023"
+FT                   /note="s-rRNA"
+FT                   /note="source:Genbank"
+FT                   /product="12S ribosomal RNA"
+FT                   /standard_name="12S rRNA"
+FT   exon            69..1023
+FT                   /locus_tag="FOSSIL936_LOCUS02"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:69..1023-1"
+FT                   /note="s-rRNA"
+FT                   /note="source:Genbank"
+FT                   /product="12S ribosomal RNA"
+FT   tRNA            1024..1090
+FT                   /locus_tag="FOSSIL936_LOCUS03"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:1024..1090"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Val"
+FT   exon            1024..1090
+FT                   /locus_tag="FOSSIL936_LOCUS03"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:1024..1090-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Val"
+FT   rRNA            1091..2655
+FT                   /locus_tag="FOSSIL936_LOCUS04"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:1091..2656"
+FT                   /note="l-rRNA"
+FT                   /note="source:Genbank"
+FT                   /product="16S ribosomal RNA"
+FT   exon            1091..2655
+FT                   /locus_tag="FOSSIL936_LOCUS04"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:1091..2656-1"
+FT                   /note="l-rRNA"
+FT                   /note="source:Genbank"
+FT                   /product="16S ribosomal RNA"
+FT   tRNA            2656..2730
+FT                   /locus_tag="FOSSIL936_LOCUS05"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:2657..2731"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Leu"
+FT   exon            2656..2730
+FT                   /locus_tag="FOSSIL936_LOCUS05"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:2657..2731-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Leu"
+FT   gene            2733..3688
+FT                   /gene="ND1"
+FT                   /locus_tag="FOSSIL936_LOCUS06"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:gene-ND1"
+FT                   /note="source:Genbank"
+FT                   /standard_name="ND1"
+FT   CDS             2733..>3688
+FT                   /codon_start=1
+FT                   /gene="ND1"
+FT                   /locus_tag="FOSSIL936_LOCUS06"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:cds-AEP21234.1"
+FT                   /note="TAA stop codon is completed by the addition of 3' A
+FT                   residues to the mRNA"
+FT                   /note="source:Genbank"
+FT                   /product="NADH dehydrogenase subunit 1"
+FT                   /protein_id="AEP21234.1"
+FT                   /standard_name="AEP21234.1"
+FT                   /transl_table=2
+FT   tRNA            3689..3757
+FT                   /locus_tag="FOSSIL936_LOCUS07"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:3690..3758"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Ile"
+FT   exon            3689..3757
+FT                   /locus_tag="FOSSIL936_LOCUS07"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:3690..3758-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Ile"
+FT   tRNA            complement(3755..3826)
+FT                   /locus_tag="FOSSIL936_LOCUS08"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:3756..3827"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Gln"
+FT   exon            complement(3755..3826)
+FT                   /locus_tag="FOSSIL936_LOCUS08"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:3756..3827-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Gln"
+FT   tRNA            3829..3897
+FT                   /locus_tag="FOSSIL936_LOCUS09"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:3830..3898"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Met"
+FT   exon            3829..3897
+FT                   /locus_tag="FOSSIL936_LOCUS09"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:3830..3898-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Met"
+FT   gene            3898..4939
+FT                   /gene="ND2"
+FT                   /locus_tag="FOSSIL936_LOCUS10"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:gene-ND2"
+FT                   /note="source:Genbank"
+FT                   /standard_name="ND2"
+FT   CDS             3898..>4939
+FT                   /codon_start=1
+FT                   /gene="ND2"
+FT                   /locus_tag="FOSSIL936_LOCUS10"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:cds-AEP21235.1"
+FT                   /note="TAA stop codon is completed by the addition of 3' A
+FT                   residues to the mRNA"
+FT                   /note="source:Genbank"
+FT                   /product="NADH dehydrogenase subunit 2"
+FT                   /protein_id="AEP21235.1"
+FT                   /standard_name="AEP21235.1"
+FT                   /transl_table=2
+FT   tRNA            4940..5007
+FT                   /locus_tag="FOSSIL936_LOCUS11"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:4941..5008"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Trp"
+FT   exon            4940..5007
+FT                   /locus_tag="FOSSIL936_LOCUS11"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:4941..5008-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Trp"
+FT   tRNA            complement(5009..5077)
+FT                   /locus_tag="FOSSIL936_LOCUS12"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:5010..5078"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Ala"
+FT   exon            complement(5009..5077)
+FT                   /locus_tag="FOSSIL936_LOCUS12"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:5010..5078-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Ala"
+FT   tRNA            complement(5079..5151)
+FT                   /locus_tag="FOSSIL936_LOCUS13"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:5080..5152"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Asn"
+FT   exon            complement(5079..5151)
+FT                   /locus_tag="FOSSIL936_LOCUS13"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:5080..5152-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Asn"
+FT   tRNA            complement(5184..5250)
+FT                   /locus_tag="FOSSIL936_LOCUS14"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:5185..5251"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Cys"
+FT   exon            complement(5184..5250)
+FT                   /locus_tag="FOSSIL936_LOCUS14"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:5185..5251-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Cys"
+FT   tRNA            complement(5251..5318)
+FT                   /locus_tag="FOSSIL936_LOCUS15"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:5252..5319"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Tyr"
+FT   exon            complement(5251..5318)
+FT                   /locus_tag="FOSSIL936_LOCUS15"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:5252..5319-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Tyr"
+FT   gene            5320..6864
+FT                   /gene="COX1"
+FT                   /locus_tag="FOSSIL936_LOCUS16"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:gene-COX1"
+FT                   /note="source:Genbank"
+FT                   /standard_name="COX1"
+FT   CDS             5320..6864
+FT                   /codon_start=1
+FT                   /gene="COX1"
+FT                   /locus_tag="FOSSIL936_LOCUS16"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:cds-AEP21236.1"
+FT                   /note="source:Genbank"
+FT                   /product="cytochrome c oxidase subunit I"
+FT                   /protein_id="AEP21236.1"
+FT                   /standard_name="AEP21236.1"
+FT                   /transl_table=2
+FT   tRNA            complement(6862..6932)
+FT                   /locus_tag="FOSSIL936_LOCUS17"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:6863..6933"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Ser"
+FT   exon            complement(6862..6932)
+FT                   /locus_tag="FOSSIL936_LOCUS17"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:6863..6933-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Ser"
+FT   tRNA            6938..7005
+FT                   /locus_tag="FOSSIL936_LOCUS18"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:6939..7006"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Asp"
+FT   exon            6938..7005
+FT                   /locus_tag="FOSSIL936_LOCUS18"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:6939..7006-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Asp"
+FT   gene            7007..7690
+FT                   /gene="COX2"
+FT                   /locus_tag="FOSSIL936_LOCUS19"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:gene-COX2"
+FT                   /note="source:Genbank"
+FT                   /standard_name="COX2"
+FT   CDS             7007..7690
+FT                   /codon_start=1
+FT                   /gene="COX2"
+FT                   /locus_tag="FOSSIL936_LOCUS19"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:cds-AEP21237.1"
+FT                   /note="source:Genbank"
+FT                   /product="cytochrome c oxidase subunit II"
+FT                   /protein_id="AEP21237.1"
+FT                   /standard_name="AEP21237.1"
+FT                   /transl_table=2
+FT   tRNA            7694..7761
+FT                   /locus_tag="FOSSIL936_LOCUS20"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:7695..7762"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Lys"
+FT   exon            7694..7761
+FT                   /locus_tag="FOSSIL936_LOCUS20"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:7695..7762-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Lys"
+FT   gene            7763..7963
+FT                   /gene="ATP8"
+FT                   /locus_tag="FOSSIL936_LOCUS21"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:gene-ATP8"
+FT                   /note="source:Genbank"
+FT                   /standard_name="ATP8"
+FT   CDS             7763..7963
+FT                   /codon_start=1
+FT                   /gene="ATP8"
+FT                   /locus_tag="FOSSIL936_LOCUS21"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:cds-AEP21238.1"
+FT                   /note="source:Genbank"
+FT                   /product="ATP synthase F0 subunit 8"
+FT                   /protein_id="AEP21238.1"
+FT                   /standard_name="AEP21238.1"
+FT                   /transl_table=2
+FT   gene            7924..8604
+FT                   /gene="ATP6"
+FT                   /locus_tag="FOSSIL936_LOCUS22"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:gene-ATP6"
+FT                   /note="source:Genbank"
+FT                   /standard_name="ATP6"
+FT   CDS             7924..8604
+FT                   /codon_start=1
+FT                   /gene="ATP6"
+FT                   /locus_tag="FOSSIL936_LOCUS22"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:cds-AEP21239.1"
+FT                   /note="source:Genbank"
+FT                   /product="ATP synthase F0 subunit 6"
+FT                   /protein_id="AEP21239.1"
+FT                   /standard_name="AEP21239.1"
+FT                   /transl_table=2
+FT   gene            8604..9387
+FT                   /gene="COX3"
+FT                   /locus_tag="FOSSIL936_LOCUS23"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:gene-COX3"
+FT                   /note="source:Genbank"
+FT                   /standard_name="COX3"
+FT   CDS             8604..>9387
+FT                   /codon_start=1
+FT                   /gene="COX3"
+FT                   /locus_tag="FOSSIL936_LOCUS23"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:cds-AEP21240.1"
+FT                   /note="TAA stop codon is completed by the addition of 3' A
+FT                   residues to the mRNA"
+FT                   /note="source:Genbank"
+FT                   /product="cytochrome c oxidase subunit III"
+FT                   /protein_id="AEP21240.1"
+FT                   /standard_name="AEP21240.1"
+FT                   /transl_table=2
+FT   tRNA            9388..9456
+FT                   /locus_tag="FOSSIL936_LOCUS24"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:9389..9457"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Gly"
+FT   exon            9388..9456
+FT                   /locus_tag="FOSSIL936_LOCUS24"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:9389..9457-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Gly"
+FT   gene            9457..9802
+FT                   /gene="ND3"
+FT                   /locus_tag="FOSSIL936_LOCUS25"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:gene-ND3"
+FT                   /note="source:Genbank"
+FT                   /standard_name="ND3"
+FT   CDS             9457..>9802
+FT                   /codon_start=1
+FT                   /gene="ND3"
+FT                   /locus_tag="FOSSIL936_LOCUS25"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:cds-AEP21241.1"
+FT                   /note="TAA stop codon is completed by the addition of 3' A
+FT                   residues to the mRNA"
+FT                   /note="source:Genbank"
+FT                   /product="NADH dehydrogenase subunit 3"
+FT                   /protein_id="AEP21241.1"
+FT                   /standard_name="AEP21241.1"
+FT                   /transl_table=2
+FT   tRNA            9803..9872
+FT                   /locus_tag="FOSSIL936_LOCUS26"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:9804..9873"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Arg"
+FT   exon            9803..9872
+FT                   /locus_tag="FOSSIL936_LOCUS26"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:9804..9873-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Arg"
+FT   gene            9873..10169
+FT                   /gene="ND4L"
+FT                   /locus_tag="FOSSIL936_LOCUS27"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:gene-ND4L"
+FT                   /note="source:Genbank"
+FT                   /standard_name="ND4L"
+FT   CDS             9873..10169
+FT                   /codon_start=1
+FT                   /gene="ND4L"
+FT                   /locus_tag="FOSSIL936_LOCUS27"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:cds-AEP21242.1"
+FT                   /note="source:Genbank"
+FT                   /product="NADH dehydrogenase subunit 4L"
+FT                   /protein_id="AEP21242.1"
+FT                   /standard_name="AEP21242.1"
+FT                   /transl_table=2
+FT   gene            10163..11540
+FT                   /gene="ND4"
+FT                   /locus_tag="FOSSIL936_LOCUS28"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:gene-ND4"
+FT                   /note="source:Genbank"
+FT                   /standard_name="ND4"
+FT   CDS             10163..>11540
+FT                   /codon_start=1
+FT                   /gene="ND4"
+FT                   /locus_tag="FOSSIL936_LOCUS28"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:cds-AEP21243.1"
+FT                   /note="TAA stop codon is completed by the addition of 3' A
+FT                   residues to the mRNA"
+FT                   /note="source:Genbank"
+FT                   /product="NADH dehydrogenase subunit 4"
+FT                   /protein_id="AEP21243.1"
+FT                   /standard_name="AEP21243.1"
+FT                   /transl_table=2
+FT   tRNA            11541..11610
+FT                   /locus_tag="FOSSIL936_LOCUS29"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:11542..11611"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-His"
+FT   exon            11541..11610
+FT                   /locus_tag="FOSSIL936_LOCUS29"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:11542..11611-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-His"
+FT   tRNA            11611..11670
+FT                   /locus_tag="FOSSIL936_LOCUS30"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:11612..11671"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Ser"
+FT   exon            11611..11670
+FT                   /locus_tag="FOSSIL936_LOCUS30"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:11612..11671-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Ser"
+FT   tRNA            11672..11741
+FT                   /locus_tag="FOSSIL936_LOCUS31"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:11673..11742"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Leu"
+FT   exon            11672..11741
+FT                   /locus_tag="FOSSIL936_LOCUS31"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:11673..11742-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Leu"
+FT   gene            11742..13562
+FT                   /gene="ND5"
+FT                   /locus_tag="FOSSIL936_LOCUS32"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:gene-ND5"
+FT                   /note="source:Genbank"
+FT                   /standard_name="ND5"
+FT   CDS             11742..13562
+FT                   /codon_start=1
+FT                   /gene="ND5"
+FT                   /locus_tag="FOSSIL936_LOCUS32"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:cds-AEP21244.1"
+FT                   /note="source:Genbank"
+FT                   /product="NADH dehydrogenase subunit 5"
+FT                   /protein_id="AEP21244.1"
+FT                   /standard_name="AEP21244.1"
+FT                   /transl_table=2
+FT   gene            complement(13546..14073)
+FT                   /gene="ND6"
+FT                   /locus_tag="FOSSIL936_LOCUS33"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:gene-ND6"
+FT                   /note="source:Genbank"
+FT                   /standard_name="ND6"
+FT   CDS             complement(13546..14073)
+FT                   /codon_start=1
+FT                   /gene="ND6"
+FT                   /locus_tag="FOSSIL936_LOCUS33"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:cds-AEP21245.1"
+FT                   /note="source:Genbank"
+FT                   /product="NADH dehydrogenase subunit 6"
+FT                   /protein_id="AEP21245.1"
+FT                   /standard_name="AEP21245.1"
+FT                   /transl_table=2
+FT   tRNA            complement(14074..14142)
+FT                   /locus_tag="FOSSIL936_LOCUS34"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:14075..14143"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Glu"
+FT   exon            complement(14074..14142)
+FT                   /locus_tag="FOSSIL936_LOCUS34"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:14075..14143-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Glu"
+FT   gene            14147..15286
+FT                   /gene="CYTB"
+FT                   /locus_tag="FOSSIL936_LOCUS35"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:gene-CYTB"
+FT                   /note="source:Genbank"
+FT                   /standard_name="CYTB"
+FT   CDS             14147..15286
+FT                   /codon_start=1
+FT                   /gene="CYTB"
+FT                   /locus_tag="FOSSIL936_LOCUS35"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:cds-AEP21246.1"
+FT                   /note="source:Genbank"
+FT                   /product="cytochrome b"
+FT                   /protein_id="AEP21246.1"
+FT                   /standard_name="AEP21246.1"
+FT                   /transl_table=2
+FT   tRNA            15290..15359
+FT                   /locus_tag="FOSSIL936_LOCUS36"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:15291..15360"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Thr"
+FT   exon            15290..15359
+FT                   /locus_tag="FOSSIL936_LOCUS36"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:15291..15360-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Thr"
+FT   tRNA            complement(15359..15424)
+FT                   /locus_tag="FOSSIL936_LOCUS37"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:rna-JN632628.1:15360..15425"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Pro"
+FT   exon            complement(15359..15424)
+FT                   /locus_tag="FOSSIL936_LOCUS37"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:exon-JN632628.1:15360..15425-1"
+FT                   /note="source:Genbank"
+FT                   /product="tRNA-Pro"
+FT   misc_feature    15425..16213
+FT                   /locus_tag="FOSSIL936_LOCUS38"
+FT                   /note="Derived using Geneious Prime 2024.0.7 'Transfer
+FT                   Annotations' based on nucleotide similarity"
+FT                   /note="ID:id-JN632628.1:15426..16214"
+FT                   /note="control region"
+FT                   /note="source:Genbank"
+XX
+SQ   Sequence 16409 BP; 5427 A; 4468 C; 2275 G; 4239 T; 0 other;
+     GTTGATGTAG CTTAAAACCA AAGCAAGGCA CTGAAAATGC CTAGATGAGT ATATAAACTC        60
+     [Rest of the sequence redacted]
+//

@@ -1,0 +1,19 @@
+# The following metadata fields are supported in the manifest file for genome context:
+STUDY: Study accession - mandatory
+SAMPLE: Sample accession - mandatory
+ASSEMBLYNAME: Unique assembly name, user-provided - mandatory
+ASSEMBLY_TYPE: ‘clone or isolate’ - mandatory
+COVERAGE: The estimated depth of sequencing coverage - mandatory
+PROGRAM: The assembly program - mandatory
+PLATFORM: The sequencing platform, or comma-separated list of platforms - mandatory
+MINGAPLENGTH: Minimum length of consecutive Ns to be considered a gap - optional
+MOLECULETYPE: ‘genomic DNA’, ‘genomic RNA’ or ‘viral cRNA’ - optional
+DESCRIPTION: Free text description of the genome assembly - optional
+RUN_REF: Comma separated list of run accession(s) - optional
+
+# Various file name fields are supported in the manifest file. Note that all of these are optional, though of course at least one must be provided, and some may only be relevant in the presence of other file types. 
+FASTA: sequences in fasta format
+FLATFILE: sequences in EMBL-Bank flat file format
+AGP: sequences in AGP format
+CHROMOSOME_LIST: list of chromosomes
+UNLOCALISED_LIST: list of unlocalised sequences

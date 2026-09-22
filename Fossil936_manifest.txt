@@ -1,0 +1,12 @@
+STUDY: PRJEB108657
+SAMPLE: SAMEA121731856
+ASSEMBLYNAME: Fossil936 mitochondrion
+ASSEMBLY_TYPE: isolate
+COVERAGE: 39
+PROGRAM: aITE v3 (https://doi.org/10.1111/2041-210X.13990) and MITObim v1.8 (https://doi.org/10.1093/nar/gkt371)
+PLATFORM: ILLUMINA
+MOLECULETYPE: genomic DNA
+DESCRIPTION: Both aITE and MITObim were used twice independently using the two extant wildebeest species Connochaetes taurinus (blue wildebeest: JN632628.1) and C. gnou (black wildebeest: JN632626.1) mitogenomes as bait reference genomes. For the aITE mapper we used version 3, which utilises relaxed mismatch parameters in BWA (-n 0.001 -o 2) and for MITObim we specified a mismatch parameter of 3. We aligned the four resultant mitogenomes to each other and the two bait reference mitogenomes using MAFFT v7.392 specifying --globalpair and --maxiterate 16, and manually built a final consensus sequence by only considering sites where all four resultant mitogenomes were in agreement. The final genome was annotated from the blue wildebeest reference using the Transfer Annotation function in Geneious with an 80% identity cut-off.
+RUN_REF: ERR16741334,ERR16741336
+FLATFILE: Fossil936.embl.gz
+CHROMOSOME_LIST: chr_list.tsv.gz

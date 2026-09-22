@@ -14,7 +14,7 @@ SciLifeLab has good tutorials on ENA submissions [here](https://data-guidelines.
 [Link](https://ena-docs.readthedocs.io/en/latest/submit/assembly/genome.html#register-locus-tag-prefixes) to relevant ENA docs page.
 
 >[!note]
->This assumes you have already registered your [study/project](https://ena-docs.readthedocs.io/en/latest/submit/study.html) and [sample](https://ena-docs.readthedocs.io/en/latest/submit/samples.html) in the ENA.
+>This assumes you have already registered your [study/project](https://ena-docs.readthedocs.io/en/latest/submit/study.html) and [sample](https://ena-docs.readthedocs.io/en/latest/submit/samples.html) in the ENA, and that your taxon exists in the [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/datasets/taxonomy/).
 
 1. On the Webin Submissions portal front page, click on `Studies Report`, then click the box with arrow under the `Actions` field on the right of the project into which you want to upload the mitogenome. 
 2. In the project editor, tick the box that says "Will you provide functional genome annotation?"

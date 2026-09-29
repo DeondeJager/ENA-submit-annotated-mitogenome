@@ -49,9 +49,9 @@ The final genome was annotated from the blue wildebeest reference (JN632628.1) u
 
 I then did the following:
 1. Exported the mitogenome as a fasta file and changed the sequence name in Notepad++ to "Fossil936". 
-2. Exported the annotations in gff3 format `GFF3 annotations (*.gff)` without the sequence and **not** in strict format, so "Export all qualifiers...", as the strict mode removed the `Product=` information from the 8th column and I wanted to keep this info as it gives the tRNA, rRNA and protein coding gene names.
+2. Exported the annotations in gff3 format `GFF3 annotations (*.gff)` without the sequence and **not** in strict format, so "Export all qualifiers...", to keep as much info as possible.
 3. Manually edited the gff file to:
-  - 3.1. Change all instances of the sequence name from whatever is was in Geneious to "Fossil936" using find-and-replace.
+  - 3.1. Change all instances of the sequence name from whatever it was in Geneious to "Fossil936" using find-and-replace.
   - 3.2. Assign each `tRNA`, `rRNA`, and `CDS` feature (these are children features of genes) to a parent `gene` using the `Parent=<insert gene ID>` terminology in the 8th column. 
   I  made sure the parent `gene` feature was always listed before the child feature in the gff (not sure if necessary though).
   - 3.3. Removed any `transl_except` flags from the 8th column of `CDS` features as they were causing validation errors (I think as a consequence of being transferred from another mitogenome).
@@ -63,6 +63,13 @@ Without assigning parent-child relationships, each `gene` and `CDS` feature, for
 
 This was only a problem for me because I originally downloaded and imported the blue wildebeest mitogenome into Geneious as a GenBank (`.gb`) format file, which does not encode the `Parent` information.
 However, the `gff` format does, so when downloading from NCBI (or similar), it is best to download the sequence in `fasta` format and the annotations in `gff` format for importing into Geneious, as this preserves the `Parent` information. 
+- However, I have since noticed that when using "Transfer annotations" and then exporting to `gff` also removes the "Parent" information, but copying annotations from the reference to the new sequence preserves this information.
+```
+- To copy annotations, align the mitogenome with the annotated reference in Geneious.
+- In the alignment, click on the name of the reference to select the entire sequence and all annotations.
+- Right click on the sequence name > Annotation > Copy all in selected region to > All other sequences.
+- Then extract and translate all the protein-coding gene CDS annotations and check all produce proteins of the expected length and do not have internal stop codons (search for "*" in the sequences with ctrl+F).
+```
 
 ## 3. Generate embl format of annotations
 Convert the edited `gff` to `embl` format.

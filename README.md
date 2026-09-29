@@ -100,9 +100,12 @@ This is a tab-separated file with four fields:
 3. CHROMOSOME_TYPE: circular-chromosome for mitochondrion
 4. CHROMOSOME_LOCATION: Mitochondrion
 
-Make it in a text editor; mine looked like this:
-
-`_Fossil936	MT	circular-chromosome	Mitochondrion`
+Make it in a text editor or with `printf` on the command line; mine looked like this:
+```
+printf "_Fossil936\tMT\tcircular-chromosome\tMitochondrion\n" > chr_list.tsv
+head chr_list.tsv
+_Fossil936	MT	circular-chromosome	Mitochondrion
+```
 
 This file also needs to be compressed like the `embl` file:
 
